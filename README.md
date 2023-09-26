@@ -9,7 +9,7 @@
 
 
 
-**[» Scan Qr](https://qr-hazel-alpha.vercel.app/md)**
+**[» Scan Qr](https://qr-hazel-alpha.vercel.app/session)**
 
 **[» Deploy Heroku](https://dashboard.heroku.com/new-app?template=https://github.com/kuchbhiden12345/whatsapp-bot-md)**
 
