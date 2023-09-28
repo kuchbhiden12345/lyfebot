@@ -1,4 +1,4 @@
-# lyfebot
+# Subscribe Channel
 
 **[» Official Channel](https://www.youtube.com/@HEROKUCCBIN)**
 
@@ -7,16 +7,17 @@
 
 **[» Whatsapp link](https://chat.whatsapp.com/BD4tDPfr4GD3Nuoio8O63T)**
 
-
+👇👇👇👇👇👇👇👇👇👇👇👇
 
 **[» Scan Qr](https://qr-hazel-alpha.vercel.app/qr)**
 
 **[» Deploy Heroku](https://dashboard.heroku.com/new-app?template=https://github.com/kuchbhiden12345/whatsapp-bot-md)**
 
 **[» Deploy Mogenius](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)**
-✅
 
-***Lyfe Deploy Heroku [`Youtube Video`](https://youtu.be/CmH-S9DBGhU?si=B6N3n-fNljRN8FoO).***
+👆👆👆👆👆👆👆👆👆👆👆👆
+
+***Lyfee Deploy Heroku [`Youtube Video`](https://youtu.be/CmH-S9DBGhU?si=B6N3n-fNljRN8FoO).***
 
 ***Lyfe Deploy Mugenius [`Youtube Video`](https://youtu.be/Gz8agSRKshk?si=PriXS-uJEoQakDv1).***
 
